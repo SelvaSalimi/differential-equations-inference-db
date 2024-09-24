@@ -1,0 +1,5 @@
+{
+    "projectManager.git.baseFolders": [
+        "https://github.com/pints-team/differential-equations-inference-db/tree/hydrology-model/streamflow"
+    ]
+}
